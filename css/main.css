@@ -1,0 +1,76 @@
+/* Inserta tu CSS aqui */
+*/*{outline: 1px solid rgba(255,0,0,0.1);}*/
+.imagen{
+    background-image: url(http://inkantohotel.com/wp-content/uploads/2014/03/ciudad-cabecera.jpg);
+    background-repeat: no-repeat;
+    padding: 15%;
+}
+.menu{
+	list-style: none;
+	text-align: center;
+}
+li{
+	display: inline-block;
+}
+.menu a{
+	text-decoration: none;
+	margin-right: 30px;
+}
+h1{
+	text-align: center;
+	font-family: arial;
+	color: #8904B1;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+h3{
+	text-align: center;
+	font-family: arial;
+	color: #8904B1;
+}
+.info img{
+	width: 150px;
+	height: 150px;
+	margin-left: 150px;
+	border:2px solid black;
+}
+.info{
+	background-image: url("../images/tile1.png");
+	margin-bottom:20px;
+	padding: 20px;
+}
+h4{	
+	text-align: center;
+	font-family: arial;
+	color: #8904B1;
+}
+.titulos{
+	margin-bottom: 50px;
+}
+.hobbies{
+	width: 978px;
+	height: 290px;
+	overflow: auto;
+	margin:0 auto;
+	padding: 30px;
+}
+.hobbies img{
+	width: 250px;
+	height: 250px;
+}
+.galeria img{
+	border-radius: 100%;
+	padding: 3px;
+	border: 2px solid #8904B1;
+	margin:0 auto;
+}
+.contacto{
+	background-image: url("../images/tile2.png");
+	margin-top: 20px;
+	padding: 5%;
+	overflow: scroll;
+}
+.contacto img{
+	margin-left: 15%;
+	margin-right: -5px;
+}
