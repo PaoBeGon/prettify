@@ -8,6 +8,8 @@
 .menu{
 	list-style: none;
 	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 li{
 	display: inline-block;
@@ -15,6 +17,7 @@ li{
 .menu a{
 	text-decoration: none;
 	margin-right: 30px;
+	color: gray;
 }
 h1{
 	text-align: center;
@@ -63,6 +66,7 @@ h4{
 	padding: 3px;
 	border: 2px solid #8904B1;
 	margin:0 auto;
+	margin-bottom: 10px;
 }
 .contacto{
 	background-image: url("../images/tile2.png");
